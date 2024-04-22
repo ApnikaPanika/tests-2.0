@@ -1,0 +1,10 @@
+.listContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.individualTask{
+   font-size: 20px; 
+}
